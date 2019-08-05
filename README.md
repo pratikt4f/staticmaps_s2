@@ -1,0 +1,1 @@
+# staticmaps_s2
