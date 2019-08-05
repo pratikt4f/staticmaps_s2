@@ -344,9 +344,4 @@ const options = {
 
 # Contributers
 
-+ [Wesley Flynn](https://github.com/wesflynn)
-+ [Thomas Konings](https://github.com/tkon99)
-+ [Gihan S](https://github.com/gihanshp)
-+ [Sergey Averyanov](https://github.com/saveryanov)
-+ [boxcc](https://github.com/boxcc)
-+ [Maksim Skutin](https://github.com/mskutin)
++ [Pratik B](https://github.com/pratikt4f)
